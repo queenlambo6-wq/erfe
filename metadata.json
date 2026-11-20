@@ -1,0 +1,6 @@
+{
+  "name": "TrackRoom",
+  "description": "Collaborative online music studio and web DAW for making beats, composing melodies, recording vocals, and jamming with real-time voice communication and chat.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
